@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.projects-card {
+    width: 20rem;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block !important;
+}
+
+#projects-container {
+    margin-top: 70px;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
