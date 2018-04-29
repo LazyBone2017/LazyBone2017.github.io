@@ -1,5 +1,5 @@
 const authorList = [
-    ["Jonas Schröter", "https://LazyBone2017.github.io"]
+    ["Moritz Vogel", "https://Birdy2014.github.io"]
 ];
 
 const langList = [
