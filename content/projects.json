@@ -1,4 +1,4 @@
 [
-  ["neural-network-api", "A java library to easily create and train neural networks", ["Moritz Vogel", "Jonas Schröter"], ["Java", "..."], false],
+  ["neural-network-api", "A java library to easily create and train neural networks", ["Moritz Vogel", "Jonas Schröter"], ["Java", "HTML"], false],
   ["InteractivePeriodicSystem", "An interactive periodic system including a quiz", ["Moritz Vogel", "Jonas Schröter", "Toprak Saricerci"], ["HTML", "CSS", "JavaScript"], true]
 ]
