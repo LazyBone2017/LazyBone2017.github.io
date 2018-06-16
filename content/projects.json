@@ -3,5 +3,6 @@
   ["InteractivePeriodicSystem", "An interactive periodic system including a quiz", ["Moritz Vogel", "Jonas Schröter", "Toprak Saricerci"], ["HTML", "CSS", "JavaScript"], true],
   ["GraphLib", "A library for creating JavaFX Graphs and Charts", ["Jonas Schröter"], ["Java"], false],
   ["CandyCrush_TestGame", "A Simple Test if I'm able to program such a game", ["Jonas Schröter"], ["Java"], false],
-  ["MensaplanServerSide", "An PHP script for Helmholtz - App", ["Jonas Schröter", "Moritz Vogel"], ["PHP"], false]
+  ["MensaplanServerSide", "An PHP script for Helmholtz - App", ["Jonas Schröter", "Moritz Vogel"], ["PHP"], false],
+  ["MediaPlayer", "A Media Player. What did you expect? Just kidding, made for audio(MP3) files.", ["Jonas Schröter"], ["Java"], false]
 ]
